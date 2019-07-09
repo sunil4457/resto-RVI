@@ -1,5 +1,10 @@
 package com.foody.resto.RVI.model;
 
-public class ProductType {
+import javax.persistence.Entity;
+import javax.persistence.Id;
 
+@Entity
+public class ProductType {
+	@Id
+	private int productTypeId;
 }
