@@ -1,4 +1,4 @@
-package com.foody.resto.RVI.Controller;
+package com.foody.resto.RVI.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
